@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tetris", "Tetris\Tetris.csproj", "{CBE62549-0AD8-4CBC-B488-A5B419A5F6A5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CppTetris", "CppTetris\CppTetris.vcxproj", "{18F2C2E4-2943-4F6F-9D0E-94CE428CBCFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBE62549-0AD8-4CBC-B488-A5B419A5F6A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE62549-0AD8-4CBC-B488-A5B419A5F6A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE62549-0AD8-4CBC-B488-A5B419A5F6A5}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CBE62549-0AD8-4CBC-B488-A5B419A5F6A5}.Debug|x64.Build.0 = Debug|Any CPU
+		{CBE62549-0AD8-4CBC-B488-A5B419A5F6A5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CBE62549-0AD8-4CBC-B488-A5B419A5F6A5}.Debug|x86.Build.0 = Debug|Any CPU
+		{CBE62549-0AD8-4CBC-B488-A5B419A5F6A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE62549-0AD8-4CBC-B488-A5B419A5F6A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBE62549-0AD8-4CBC-B488-A5B419A5F6A5}.Release|x64.ActiveCfg = Release|Any CPU
+		{CBE62549-0AD8-4CBC-B488-A5B419A5F6A5}.Release|x64.Build.0 = Release|Any CPU
+		{CBE62549-0AD8-4CBC-B488-A5B419A5F6A5}.Release|x86.ActiveCfg = Release|Any CPU
+		{CBE62549-0AD8-4CBC-B488-A5B419A5F6A5}.Release|x86.Build.0 = Release|Any CPU
+		{18F2C2E4-2943-4F6F-9D0E-94CE428CBCFF}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{18F2C2E4-2943-4F6F-9D0E-94CE428CBCFF}.Debug|Any CPU.Build.0 = Debug|x64
+		{18F2C2E4-2943-4F6F-9D0E-94CE428CBCFF}.Debug|x64.ActiveCfg = Debug|x64
+		{18F2C2E4-2943-4F6F-9D0E-94CE428CBCFF}.Debug|x64.Build.0 = Debug|x64
+		{18F2C2E4-2943-4F6F-9D0E-94CE428CBCFF}.Debug|x86.ActiveCfg = Debug|Win32
+		{18F2C2E4-2943-4F6F-9D0E-94CE428CBCFF}.Debug|x86.Build.0 = Debug|Win32
+		{18F2C2E4-2943-4F6F-9D0E-94CE428CBCFF}.Release|Any CPU.ActiveCfg = Release|x64
+		{18F2C2E4-2943-4F6F-9D0E-94CE428CBCFF}.Release|Any CPU.Build.0 = Release|x64
+		{18F2C2E4-2943-4F6F-9D0E-94CE428CBCFF}.Release|x64.ActiveCfg = Release|x64
+		{18F2C2E4-2943-4F6F-9D0E-94CE428CBCFF}.Release|x64.Build.0 = Release|x64
+		{18F2C2E4-2943-4F6F-9D0E-94CE428CBCFF}.Release|x86.ActiveCfg = Release|Win32
+		{18F2C2E4-2943-4F6F-9D0E-94CE428CBCFF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {203F1FA4-1774-43F5-BE54-6D0285365A69}
+	EndGlobalSection
+EndGlobal
